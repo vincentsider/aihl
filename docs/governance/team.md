@@ -97,10 +97,10 @@
 - Twitter: [@twitter_handle]
 
 ### Chief Entertainment Officer
-- Name: [Full Name]
-- GitHub: [@github_username]
-- LinkedIn: [LinkedIn Profile URL]
-- Twitter: [@twitter_handle]
+- Name: Vincent Sider ( +447403767767)
+- GitHub: @vincentsider
+- LinkedIn: https://www.linkedin.com/in/vincentsider/
+- Twitter: @vincentsider
   
 ## Advisory Council
 
